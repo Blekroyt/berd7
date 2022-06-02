@@ -3,6 +3,7 @@
 import math
 import sys
 
+import json
 
 if __name__ == '__main__':
     with open('lol.txt', 'r', encoding='utf-8') as f:
